@@ -1,4 +1,4 @@
-
+#Menjawab adari soal test Infrastruktur Jojonomic
 
 arrNomer=()
 echo "Enter the Credit card Number : [save the data with enter key]"
